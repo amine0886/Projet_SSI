@@ -1,0 +1,31 @@
+définition
+VirusTotal is a service that scans suspicious files and facilitates the quick detection of viruses, worms, Trojans and all kinds of malware 
+detected by antivirus engines.
+
+Characteristics:
+Free, independent service
+Using multiple antivirus engines
+Automatic real-time updates of virus signatures
+Detailed results of each antivirus engine
+Real-time global statistics
+
+historique
+Developed by Hispasec Sistemas, an independent computer security laboratory, it uses several command-line antivirus engines, updated regularly
+with the official signature files published by their respective developers.
+
+Here are some companies that participate in VirusTotal with their antivirus engine:
+Aladdin (eSafe)
+ALWIL (Avast! Antivirus)
+AVG Technologies (AVG)
+Avira (AntiVir)
+Doctor Web, Ltd. (DrWeb)
+Kaspersky Lab (AVP)
+McAfee (VirusScan)
+Microsoft (Malware Protection)
+Panda Security (Panda Platinum)
+Prevx (Prevx1)
+..../
+
+inconvenience
+VirusTotal does not replace an antivirus program installed on a machine, as it only scans individual files on demand. It also does not provide 
+permanent protection for the user's system.
